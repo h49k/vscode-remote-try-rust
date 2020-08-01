@@ -18,8 +18,9 @@
 		"rust-lang.rust",
 		"bungcip.better-toml",
 		"vadimcn.vscode-lldb",
+		"serayuzgur.crates"
 		// (Optional) Displays the current CPU stats, memory/disk consumption, clock freq. etc. of the container host in the VS Code status bar.
-		"mutantdino.resourcemonitor"
+		// "mutantdino.resourcemonitor"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
